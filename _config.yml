@@ -1,0 +1,12 @@
+# Site settings
+title:
+email: contact@wayfinder.io
+description: "Functional programming training and consulting"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://wayfinder.io" # the base hostname & protocol for your site
+
+twitter_username:
+github_username: wayfinderio
+
+# Build settings
+markdown: kramdown
